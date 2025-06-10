@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello World! I'm Matthew
+<a href="https://www.linkedin.com/in/matthew-howard-72b3552b3/"><img src="https//img/shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logocolor=white" /></a
+                                                                                                                            I am a Cyber Security Undergraduate with profound interests in my own education, my career, and the world of cyber security and computing. I am on her to display my work, my learning path, and to be part of a rapdily changing community.                                                   
+## Skills
 
-<!--
-**Matth161002/Matth161002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|          | |
+|  | |
+|          | |
+|      | |
+|                | |
+|  | |
