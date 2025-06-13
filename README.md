@@ -8,7 +8,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Packet Tracer - Python Network Programming |https://github.com/Matth161002/Packet-Sniffer |
+|Packet Sniffing - Python Network Programming |https://github.com/Matth161002/Packet-Sniffer |
 |  | |
 |          | |
 |      | |
