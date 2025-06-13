@@ -8,8 +8,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Packet Sniffing - Python Network Programming |https://github.com/Matth161002/Packet-Sniffer |
-|  | |
+|Packet Sniffing - Python and Bash Network Programming |https://github.com/Matth161002/Packet-Sniffer |
+|Key Logging - Python and Bash Programming  |https://github.com/Matth161002/Basic-Local-Machine-Key-Logger |
 |          | |
 |      | |
 |                | |
