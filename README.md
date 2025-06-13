@@ -7,7 +7,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|          | |
+|Packet Tracer - Python Network Programming | |
 |  | |
 |          | |
 |      | |
